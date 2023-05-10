@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\bin\Debug\net7.0\Coversor de Moeda.exe
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\bin\Debug\net7.0\Coversor de Moeda.deps.json
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\bin\Debug\net7.0\Coversor de Moeda.runtimeconfig.json
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\bin\Debug\net7.0\Coversor de Moeda.dll
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\bin\Debug\net7.0\Coversor de Moeda.pdb
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.dll
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\refint\Coversor de Moeda.dll
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.pdb
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\Coversor de Moeda.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Testes\Coversor de Moeda\obj\Debug\net7.0\ref\Coversor de Moeda.dll

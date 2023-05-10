@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\bin\Debug\net7.0\ListaObjetos.exe
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\bin\Debug\net7.0\ListaObjetos.deps.json
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\bin\Debug\net7.0\ListaObjetos.runtimeconfig.json
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\bin\Debug\net7.0\ListaObjetos.dll
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\bin\Debug\net7.0\ListaObjetos.pdb
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.dll
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\refint\ListaObjetos.dll
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.pdb
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ListaObjetos.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Testes\ListaObjetos\obj\Debug\net7.0\ref\ListaObjetos.dll

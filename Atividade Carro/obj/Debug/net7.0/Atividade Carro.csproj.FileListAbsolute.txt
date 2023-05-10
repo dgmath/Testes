@@ -1,0 +1,15 @@
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\bin\Debug\net7.0\Atividade Carro.exe
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\bin\Debug\net7.0\Atividade Carro.deps.json
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\bin\Debug\net7.0\Atividade Carro.runtimeconfig.json
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\bin\Debug\net7.0\Atividade Carro.dll
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\bin\Debug\net7.0\Atividade Carro.pdb
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.csproj.AssemblyReference.cache
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.AssemblyInfoInputs.cache
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.AssemblyInfo.cs
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.csproj.CoreCompileInputs.cache
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.dll
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\refint\Atividade Carro.dll
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.pdb
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\Atividade Carro.genruntimeconfig.cache
+C:\Users\53025781823\Desktop\Testes\Atividade Carro\obj\Debug\net7.0\ref\Atividade Carro.dll
